@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://www.schottstaedt.net">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,laravel,vue,alpinejs,jquery,bootstrap,tailwindcss,vite,git,npm,phpstorm,vscode,flutter,ps,py" />
+  </a>
+</p>
 Hey 👋 My name is [Tobias Schottstädt](https://www.schottstaedt.net/) and I am a full-stack web developer.
 
 My main focus is on application development, which I mainly realize with the programming languages PHP and Javascript. The frameworks Laravel and Vue.JS or Livewire are used for this.
